@@ -1,0 +1,28 @@
+Antes de empezar, investiguen sobre los siguientes temas:
+
+
+Validación de restricciones 
+
+
+
+
+
+
+Feedback en validaciones (por ejemplo, con Bootstrap)
+
+
+<div class="alert alert-dark" role="alert">
+  A simple dark alert—check it out!
+</div>
+
+
+
+
+Atributo novalidate
+
+
+Estados :valid e :invalid
+
+Métodos setCustomValidity() y checkValidity()
+
+Evento submit y los métodos preventDefault() y stopPropagation()
